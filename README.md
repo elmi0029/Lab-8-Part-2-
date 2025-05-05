@@ -21,5 +21,5 @@ Running the Script
 Before running, make sure the script is allowed to execute and has the right permissions. Since it makes system changes, administrator access is required.
 Once ready, the script reads the file and creates users, sets their passwords, and adds them to groups automatically.
 
-Testing with a "Dry Run"
-Before making actual changes, you can run the script in test mode. It will show what commands would run without actually executing them, so you can check for errors or mistakes first.
+Testing with a Dry Run
+Before making actual changes,run the script in test mode. It will show what commands would run without actually executing them, so you can check for errors or mistakes first.
